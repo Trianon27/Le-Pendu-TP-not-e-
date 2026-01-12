@@ -1,6 +1,0 @@
-projectKey=org.centrale.infosi:LePendu
-serverUrl=http://localhost:9000
-serverVersion=26.1.0.118079
-dashboardUrl=http://localhost:9000/dashboard?id=org.centrale.infosi%3ALePendu
-ceTaskId=77406c25-c7b9-4ee3-a1e5-2632acc27e32
-ceTaskUrl=http://localhost:9000/api/ce/task?id=77406c25-c7b9-4ee3-a1e5-2632acc27e32

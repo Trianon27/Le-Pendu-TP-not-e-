@@ -1,0 +1,40 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+--release
+24
+-sourcepath
+'C:/Users/srodr/Desktop/NA_I2/INFOSI/MEDEV/TP-NOTE/projet/LePendu/src/main/java;C:/Users/srodr/Desktop/NA_I2/INFOSI/MEDEV/TP-NOTE/projet/LePendu/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/srodr/Desktop/NA_I2/INFOSI/MEDEV/TP-NOTE/projet/LePendu/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'LePendu 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'LePendu 1.0-SNAPSHOT API'
+org.centrale.infosi.lependu
+C:\Users\srodr\Desktop\NA_I2\INFOSI\MEDEV\TP-NOTE\projet\LePendu\src\main\java = 1768223176013
+C:\Users\srodr\Desktop\NA_I2\INFOSI\MEDEV\TP-NOTE\projet\LePendu\target\generated-sources\annotations = 1768223369422
+C:\Users\srodr\Desktop\NA_I2\INFOSI\MEDEV\TP-NOTE\projet\LePendu\target\apidocs\allclasses-index.html = 1768223377490
+C:\Users\srodr\Desktop\NA_I2\INFOSI\MEDEV\TP-NOTE\projet\LePendu\target\apidocs\allpackages-index.html = 1768223377496
+C:\Users\srodr\Desktop\NA_I2\INFOSI\MEDEV\TP-NOTE\projet\LePendu\target\apidocs\element-list = 1768223377415
+C:\Users\srodr\Desktop\NA_I2\INFOSI\MEDEV\TP-NOTE\projet\LePendu\target\apidocs\help-doc.html = 1768223377545
+C:\Users\srodr\Desktop\NA_I2\INFOSI\MEDEV\TP-NOTE\projet\LePendu\target\apidocs\index-all.html = 1768223377525
+C:\Users\srodr\Desktop\NA_I2\INFOSI\MEDEV\TP-NOTE\projet\LePendu\target\apidocs\index.html = 1768223377536
+C:\Users\srodr\Desktop\NA_I2\INFOSI\MEDEV\TP-NOTE\projet\LePendu\target\apidocs\member-search-index.js = 1768223377510
+C:\Users\srodr\Desktop\NA_I2\INFOSI\MEDEV\TP-NOTE\projet\LePendu\target\apidocs\module-search-index.js = 1768223377499
+C:\Users\srodr\Desktop\NA_I2\INFOSI\MEDEV\TP-NOTE\projet\LePendu\target\apidocs\overview-tree.html = 1768223377470
+C:\Users\srodr\Desktop\NA_I2\INFOSI\MEDEV\TP-NOTE\projet\LePendu\target\apidocs\package-search-index.js = 1768223377503
+C:\Users\srodr\Desktop\NA_I2\INFOSI\MEDEV\TP-NOTE\projet\LePendu\target\apidocs\search.html = 1768223377531
+C:\Users\srodr\Desktop\NA_I2\INFOSI\MEDEV\TP-NOTE\projet\LePendu\target\apidocs\tag-search-index.js = 1768223377513
+C:\Users\srodr\Desktop\NA_I2\INFOSI\MEDEV\TP-NOTE\projet\LePendu\target\apidocs\type-search-index.js = 1768223377507
