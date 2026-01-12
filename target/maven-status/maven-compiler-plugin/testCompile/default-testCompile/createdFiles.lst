@@ -1,3 +1,6 @@
 org\centrale\infosi\moteur\EtatJeuTest.class
 org\centrale\infosi\moteur\MoteurJeuTest.class
 org\centrale\infosi\lependu\LePenduTest.class
+org\centrale\infosi\ui\InterfaceConsoleTest.class
+org\centrale\infosi\donnees\ConfigurationJeuTest.class
+org\centrale\infosi\donnees\ChargeurDictionnaireTest.class
