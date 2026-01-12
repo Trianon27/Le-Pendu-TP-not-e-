@@ -1,7 +1,0 @@
-org\centrale\infosi\moteur\EtatJeu.class
-org\centrale\infosi\lependu\LePendu.class
-org\centrale\infosi\moteur\StatutJeu.class
-org\centrale\infosi\donnees\ConfigurationJeu.class
-org\centrale\infosi\ui\InterfaceConsole.class
-org\centrale\infosi\moteur\MoteurJeu.class
-org\centrale\infosi\donnees\ChargeurDictionnaire.class
