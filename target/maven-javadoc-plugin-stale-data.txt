@@ -1,0 +1,45 @@
+@options
+@packages
+-encoding
+'UTF-8'
+-protected
+--release
+24
+-sourcepath
+'C:/Users/hayta/Desktop/TP MEDEV/Le-Pendu-TP-not-e-/src/main/java;C:/Users/hayta/Desktop/TP MEDEV/Le-Pendu-TP-not-e-/target/generated-sources/annotations'
+-author
+-bottom
+'Copyright &#169; 2026. All rights reserved.'
+-charset
+'UTF-8'
+-d
+'C:/Users/hayta/Desktop/TP MEDEV/Le-Pendu-TP-not-e-/target/apidocs'
+-docencoding
+'UTF-8'
+-doctitle
+'LePendu 1.0-SNAPSHOT API'
+-use
+-version
+-windowtitle
+'LePendu 1.0-SNAPSHOT API'
+org.centrale.infosi.donnees
+org.centrale.infosi.lependu
+org.centrale.infosi.moteur
+org.centrale.infosi.ui
+C:\Users\hayta\Desktop\TP MEDEV\Le-Pendu-TP-not-e-\src\main\java = 1768227645119
+C:\Users\hayta\Desktop\TP MEDEV\Le-Pendu-TP-not-e-\target\generated-sources\annotations = 1768232673355
+C:\Users\hayta\Desktop\TP MEDEV\Le-Pendu-TP-not-e-\target\apidocs\allclasses-index.html = 1768232679964
+C:\Users\hayta\Desktop\TP MEDEV\Le-Pendu-TP-not-e-\target\apidocs\allpackages-index.html = 1768232679967
+C:\Users\hayta\Desktop\TP MEDEV\Le-Pendu-TP-not-e-\target\apidocs\constant-values.html = 1768232679705
+C:\Users\hayta\Desktop\TP MEDEV\Le-Pendu-TP-not-e-\target\apidocs\element-list = 1768232679573
+C:\Users\hayta\Desktop\TP MEDEV\Le-Pendu-TP-not-e-\target\apidocs\help-doc.html = 1768232680038
+C:\Users\hayta\Desktop\TP MEDEV\Le-Pendu-TP-not-e-\target\apidocs\index-all.html = 1768232680023
+C:\Users\hayta\Desktop\TP MEDEV\Le-Pendu-TP-not-e-\target\apidocs\index.html = 1768232679942
+C:\Users\hayta\Desktop\TP MEDEV\Le-Pendu-TP-not-e-\target\apidocs\member-search-index.js = 1768232679973
+C:\Users\hayta\Desktop\TP MEDEV\Le-Pendu-TP-not-e-\target\apidocs\module-search-index.js = 1768232679969
+C:\Users\hayta\Desktop\TP MEDEV\Le-Pendu-TP-not-e-\target\apidocs\overview-summary.html = 1768232680032
+C:\Users\hayta\Desktop\TP MEDEV\Le-Pendu-TP-not-e-\target\apidocs\overview-tree.html = 1768232679888
+C:\Users\hayta\Desktop\TP MEDEV\Le-Pendu-TP-not-e-\target\apidocs\package-search-index.js = 1768232679971
+C:\Users\hayta\Desktop\TP MEDEV\Le-Pendu-TP-not-e-\target\apidocs\search.html = 1768232680027
+C:\Users\hayta\Desktop\TP MEDEV\Le-Pendu-TP-not-e-\target\apidocs\tag-search-index.js = 1768232679975
+C:\Users\hayta\Desktop\TP MEDEV\Le-Pendu-TP-not-e-\target\apidocs\type-search-index.js = 1768232679972
