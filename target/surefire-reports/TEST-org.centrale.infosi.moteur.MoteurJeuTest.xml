@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="org.centrale.infosi.moteur.MoteurJeuTest" time="0.04" tests="7" errors="0" skipped="0" failures="0">
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="org.centrale.infosi.moteur.MoteurJeuTest" time="0.038" tests="7" errors="0" skipped="0" failures="0">
   <properties>
     <property name="java.specification.version" value="24"/>
     <property name="sun.cpu.isalist" value="amd64"/>
@@ -16,7 +16,7 @@
     <property name="user.country" value="FR"/>
     <property name="sun.java.launcher" value="SUN_STANDARD"/>
     <property name="sun.boot.library.path" value="C:\Program Files\Apache NetBeans\jdk\bin"/>
-    <property name="sun.java.command" value="C:\Users\srodr\AppData\Local\Temp\surefire15271188609707935654\surefirebooter-20260112170927894_3.jar C:\Users\srodr\AppData\Local\Temp\surefire15271188609707935654 2026-01-12T17-09-27_608-jvmRun1 surefire-20260112170927894_1tmp surefire_0-20260112170927894_2tmp"/>
+    <property name="sun.java.command" value="C:\Users\srodr\AppData\Local\Temp\surefire14103277345753965485\surefirebooter-20260112172835551_3.jar C:\Users\srodr\AppData\Local\Temp\surefire14103277345753965485 2026-01-12T17-28-35_187-jvmRun1 surefire-20260112172835551_1tmp surefire_0-20260112172835551_2tmp"/>
     <property name="jdk.debug" value="release"/>
     <property name="surefire.test.class.path" value="C:\Users\srodr\Desktop\NA_I2\INFOSI\MEDEV\TP-NOTE\projet\LePendu\target\test-classes;C:\Users\srodr\Desktop\NA_I2\INFOSI\MEDEV\TP-NOTE\projet\LePendu\target\classes;C:\Users\srodr\.m2\repository\org\junit\jupiter\junit-jupiter-api\5.10.0\junit-jupiter-api-5.10.0.jar;C:\Users\srodr\.m2\repository\org\opentest4j\opentest4j\1.3.0\opentest4j-1.3.0.jar;C:\Users\srodr\.m2\repository\org\junit\platform\junit-platform-commons\1.10.0\junit-platform-commons-1.10.0.jar;C:\Users\srodr\.m2\repository\org\apiguardian\apiguardian-api\1.1.2\apiguardian-api-1.1.2.jar;C:\Users\srodr\.m2\repository\org\junit\jupiter\junit-jupiter-engine\5.10.0\junit-jupiter-engine-5.10.0.jar;C:\Users\srodr\.m2\repository\org\junit\platform\junit-platform-engine\1.10.0\junit-platform-engine-1.10.0.jar;"/>
     <property name="sun.cpu.endian" value="little"/>
@@ -31,7 +31,7 @@
     <property name="line.separator" value="&#10;"/>
     <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
     <property name="java.specification.name" value="Java Platform API Specification"/>
-    <property name="surefire.real.class.path" value="C:\Users\srodr\AppData\Local\Temp\surefire15271188609707935654\surefirebooter-20260112170927894_3.jar"/>
+    <property name="surefire.real.class.path" value="C:\Users\srodr\AppData\Local\Temp\surefire14103277345753965485\surefirebooter-20260112172835551_3.jar"/>
     <property name="user.script" value=""/>
     <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
     <property name="java.runtime.version" value="24.0.2+12"/>
@@ -62,11 +62,11 @@
     <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
     <property name="java.class.version" value="68.0"/>
   </properties>
-  <testcase name="testProposerLettreDejaProposee" classname="org.centrale.infosi.moteur.MoteurJeuTest" time="0.003">
+  <testcase name="testProposerLettreDejaProposee" classname="org.centrale.infosi.moteur.MoteurJeuTest" time="0.004">
     <system-out><![CDATA[proposerLettre - lettre déjà proposée
 ]]></system-out>
   </testcase>
-  <testcase name="testProposerLettreCorrecte" classname="org.centrale.infosi.moteur.MoteurJeuTest" time="0.001">
+  <testcase name="testProposerLettreCorrecte" classname="org.centrale.infosi.moteur.MoteurJeuTest" time="0.002">
     <system-out><![CDATA[proposerLettre - lettre correcte
 ]]></system-out>
   </testcase>
@@ -78,11 +78,11 @@
     <system-out><![CDATA[getEtat
 ]]></system-out>
   </testcase>
-  <testcase name="testProposerLettreInvalide" classname="org.centrale.infosi.moteur.MoteurJeuTest" time="0.007">
+  <testcase name="testProposerLettreInvalide" classname="org.centrale.infosi.moteur.MoteurJeuTest" time="0.006">
     <system-out><![CDATA[proposerLettre - caractère invalide
 ]]></system-out>
   </testcase>
-  <testcase name="testGetMotMasque" classname="org.centrale.infosi.moteur.MoteurJeuTest" time="0.003">
+  <testcase name="testGetMotMasque" classname="org.centrale.infosi.moteur.MoteurJeuTest" time="0.002">
     <system-out><![CDATA[getMotMasque
 ]]></system-out>
   </testcase>
